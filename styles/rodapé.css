@@ -37,3 +37,8 @@ hr {
 font-size: 14px;
     color: var(--cinza-claro);
 }
+
+    .rodapé__titulo{
+font-size: 24px;
+    }
+}
