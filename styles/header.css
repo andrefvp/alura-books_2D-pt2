@@ -56,6 +56,10 @@
 
 .container__botao {
     display: none;
+    
+}
+.container__texto{
+    display__none
 }
 
 @media screen and (min-width: 1024px) {
@@ -105,3 +109,21 @@
     }
 }
 
+
+@media screen and (min-width: 1728 px) {
+    .container__link {
+        display:flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+        padding-right: 30px;
+    }
+
+.opçõew {
+    margin-right: auto;
+}
+
+.container__texto {
+    display:block;
+}
+}
